@@ -62,6 +62,7 @@ int main() {
             case 2:
                 ex2LSum = 0;
                 ex2RSum = 0;
+                ex2D = 0;
                 printf("Enter a number:\n");
                 scanf("%d",&ex2n);
                 while(ex2n <= POSITIVE_CHECK)
